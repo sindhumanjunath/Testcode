@@ -20,7 +20,7 @@ public class MagentoTest {
 		Thread.sleep(5000);
 
 		Login login = new Login(driver);
-		login.typeEmail("suchendra.abc@gmail.com");
+		login.typeEmail("subramanyaraj87@gmail.com");
 		login.typePwd("Welcome123");
 		login.clickOnLogin();
 
